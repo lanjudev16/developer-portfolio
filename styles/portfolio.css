@@ -104,3 +104,20 @@ main {
     color: #757575;
     margin: 30px 0px;
 }
+
+.about-info-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.about .info-title {
+    font-size: 20px;
+    text-align: center;
+    color: #757575;
+}
+
+.info-description {
+    font-size: 20px;
+    color: #474747;
+    font-weight: 700;
+}
